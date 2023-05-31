@@ -1,0 +1,18 @@
+SQL> SELECT *
+  2  FROM dept;
+         7 CSE                            EE                                    
+          120                                                                   
+                                                                                
+         3 EEE                            EE                                    
+          120                                                                   
+                                                                                
+         1 CE                             CE                                    
+          120                                                                   
+                                                                                
+         5 ME                             ME                                    
+          120                                                                   
+                                                                                
+         2 ECE                            EE                                    
+           60                                                                   
+                                                                                
+SQL> SPOOL OFF
